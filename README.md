@@ -1,6 +1,3 @@
 Renames The Sun tarot card to The Sus and replaces its texture
 
-Requires [Lovely](https://github.com/ethangreen-dev/lovely-injector)
-
-Installation:
-Download the archive from releases and extract the `sun_is_sus` folder to `%appdata%\Balatro\Mods`
+Requires [Malverk](https://github.com/Eremel/Malverk)
