@@ -1,0 +1,17 @@
+{
+    "id": "sun_is_sus",
+    "name": "When the impostor is Sun",
+    "author": [
+        "Muddieee",
+        "DigitalDetective47"
+    ],
+    "description": "Renames The Sun tarot card to The Sus and replaces its texture",
+    "prefix": "sus",
+    "main_file": "main.lua",
+    "badge_colour": "F03464",
+    "display_name": "Sun is Sus",
+    "version": "1.0.0",
+    "dependencies": [
+        "malverk()"
+    ]
+}
